@@ -8,7 +8,6 @@ from asteroidfield import AsteroidField
 from logger import log_event
 from shot import Shot
 
-
 def main():
     print(f"Starting Asteroids with pygame version: {pygame.version.ver}")
     print("Screen width: 1280")
